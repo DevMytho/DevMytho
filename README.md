@@ -9,6 +9,6 @@
 
 - 📫 How to reach me **devmytho@gmail.com**
 
-My Dev to profile **https://dev.to/devmytho**
+- My Dev to profile **https://dev.to/devmytho**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmytho&show_icons=true&locale=en" alt="devmytho" /></p>
