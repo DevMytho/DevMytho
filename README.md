@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/devmytho" target="blank"><img src="https://img.shields.io/twitter/follow/devmytho?logo=twitter&style=for-the-badge" alt="devmytho" /></a> </p>
 
-- 👨‍💻 Visit My Profile Website ---> [https://devmytho.netlify.app/](https://devmytho.netlify.app/)
+- 👨‍💻 Visit My Profile Website ---> [https://devmytho.github.io/profile](https://devmytho.github.io/profile)
 
 - 💬 Ask me about **Python , Html , Css , Js**
 
