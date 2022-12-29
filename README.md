@@ -5,7 +5,7 @@
 
 - 👨‍💻 Visit My Profile Website ---> [https://devmytho.github.io/profile](https://devmytho.github.io/profile)
 
-- 💬 Ask me about **Python , Html , Css , Js**
+- 💬 Ask me about **Python , Html , css , Js**
 
 - 📫 How to reach me **devmytho@gmail.com**
 
