@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Building Fullstack Apps.<br><br>👯 **I’m looking to collaborate on:**  <br>Rust & Backend Projects.<br><br>🌱 **I’m currently learning:**  <br>Flutter & AWS services.<br><br>💬 **Ask me about:**  <br>Python. HTML, CSS, Javascript, React and NEXTjs. <br><br>⚡ **Fun fact:**  <br>I love playing games in my spare time.
+🔭 **I’m currently working on:**  <br>Building Fullstack Apps.<br><br>👯 **I’m looking to collaborate on:**  <br>Rust & Backend Projects.<br><br>🌱 **I’m currently learning:**  <br>Flutter & AWS services.<br><br>💬 **Ask me about:**  <br>Python, HTML, CSS, Javascript, React and NEXTjs. <br><br>⚡ **Fun fact:**  <br>I love playing games in my spare time.
 
 
 ## 🌐 Socials:
