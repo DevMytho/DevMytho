@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 **I’m currently working on:**  <br>Building Fullstack Apps.<br><br>👯 **I’m looking to collaborate on:**  <br>Rust & Backend Projects.<br><br>🌱 **I’m currently learning:**  <br>Flutter & AWS services.<br><br>💬 **Ask me about:**  <br>Python, HTML, CSS, Javascript, React and NEXTjs. <br><br>⚡ **Fun fact:**  <br>I love playing games in my spare time.
 
 
@@ -16,8 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=DevMytho&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DevMytho&icon=3&color=1)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devvv) 
 
