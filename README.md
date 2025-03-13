@@ -1,16 +1,43 @@
-# About Me:
-🔭 **I’m currently working on:**  <br>Building Fullstack Apps.<br><br>👯 **I’m looking to collaborate on:**  <br>Rust & Backend Projects.<br><br>🌱 **I’m currently learning:**  <br>Flutter & AWS services.<br><br>💬 **Ask me about:**  <br>Python, HTML, CSS, Javascript, React and NEXTjs. <br><br>⚡ **Fun fact:**  <br>I love playing games in my spare time.
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/meDnnKwV9Y) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devvv1804) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devvv1804/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ImDevMytho) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@devvv1804) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DevMytho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DevMytho&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMytho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```bash
+# ┌──────────────────────────────────────────────────────────────────────────────────────────────┐
+# │🔴🟡🟢devvv@archlinux:~$                                                                      │
+# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ whoami                                                                    │
+# │ DevMytho - Code Conjurer | Bibliophage | Purveyor of Digital Chaos                           │
+# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ sudo access --profile                                                     │
+# │ [sudo] password for devvv: *********                                                         │
+# │ Access granted. Fetching system details...                                                   │
+# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ neofetch --user                                                           │
+# │ OS: Arch Linux x86_64   |  Kernel: 6.13.5-arch1-1     |  Shell: Fish                         │
+# │ Packages: 1458          |  Terminal: Alacritty        |  Uptime: 4 days 23 hours 7 minutes   │
+# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ git clone --recursive --depth=1 ~/projects                                │
+# │ Cloning repositories... [███████████████████] 98% Complete...                                │
+# │ > 15+ projects retrieved                                                                     │
+# │ > Top Technologies: React, Node.js, Python, Next.js, MongoDB, RUST                           │
+# │ > GitHub contributions: ACTIVE                                                               │
+# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ sudo pacman -S skills --progress-bar                                      │
+# │ Installing Tech Stack...                                                                     │
+# │ [███████████-----------------] 9.88% - Cmake                                                 │
+# │ [█████████████████------------] 11.73% - C++                                                 │
+# │ [████████████████████████-----] 22.02% - Python                                              │
+# │ [███████████████████████████--] 27.23% - Javascript                                          │
+# │ Installation Complete!                                                                       │
+# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ sudo rm -rf /stress                                                       │
+# │ Removing all stress... Done.                                                                 │
+# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ traceroute --hops=5 future                                                │
+# │ HOP   ADDRESS            STATUS                                                              │
+# │ 1     learning_phase     Acquiring new skills...                                             │
+# │ 2     project_builds     Creating innovative solutions...                                    │
+# │ 3     open_source        Contributing to the dev community...                                │
+# │ 4     ai_development     Exploring machine learning and AI...                                │
+# │ 5     mastery            Becoming a polymath...                                              │
+# │ devvv@archlinux:~$ echo "System fully compromised. Profile unlocked."                        │
+# │ System fully compromised. Profile unlocked.                                                  │
+# └──────────────────────────────────────────────────────────────────────────────────────────────┘
+```
