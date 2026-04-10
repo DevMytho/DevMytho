@@ -1,43 +1,39 @@
 ```bash
-# ┌──────────────────────────────────────────────────────────────────────────────────────────────┐
-# │🔴🟡🟢devvv@archlinux:~$                                                                       │
-# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ whoami                                                                    │
-# │ DevMytho - Code Conjurer | Bibliophage | Purveyor of Digital Chaos                           │
-# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ sudo access --profile                                                     │
-# │ [sudo] password for devvv: *********                                                         │
-# │ Access granted. Fetching system details...                                                   │
-# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ neofetch --user                                                           │
-# │ OS: Arch Linux x86_64   |  Kernel: 6.13.5-arch1-1     |  Shell: Fish                         │
-# │ Packages: 1458          |  Terminal: Alacritty        |  Uptime: 4 days 23 hours 7 minutes   │
-# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ git clone --recursive --depth=1 ~/projects                                │
-# │ Cloning repositories... [███████████████████] 98% Complete...                                │
-# │ > 15+ projects retrieved                                                                     │
-# │ > Top Technologies: React, Node.js, Python, Next.js, MongoDB, RUST                           │
-# │ > GitHub contributions: ACTIVE                                                               │
-# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ sudo pacman -S skills --progress-bar                                      │
-# │ Installing Tech Stack...                                                                     │
-# │ [███████████-----------------] 9.88% - Cmake                                                 │
-# │ [█████████████████------------] 11.73% - C++                                                 │
-# │ [████████████████████████-----] 22.02% - Python                                              │
-# │ [███████████████████████████--] 27.23% - Javascript                                          │
-# │ Installation Complete!                                                                       │
-# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ sudo rm -rf /stress                                                       │
-# │ Removing all stress... Done.                                                                 │
-# ├──────────────────────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ traceroute --hops=5 future                                                │
-# │ HOP   ADDRESS            STATUS                                                              │
-# │ 1     learning_phase     Acquiring new skills...                                             │
-# │ 2     project_builds     Creating innovative solutions...                                    │
-# │ 3     open_source        Contributing to the dev community...                                │
-# │ 4     ai_development     Exploring machine learning and AI...                                │
-# │ 5     mastery            Becoming a polymath...                                              │
-# │ devvv@archlinux:~$ echo "System fully compromised. Profile unlocked."                        │
-# │ System fully compromised. Profile unlocked.                                                  │
-# └──────────────────────────────────────────────────────────────────────────────────────────────┘
+# ┌────────────────────────────────────────────────────────────────────────────┐
+# │🔴🟡🟢 devvv@archlinux:~$                                                  │
+# ├────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ whoami                                                  │
+# │ Devvv — Android Developer | Code Conjurer | Builder of Real Systems        │
+# ├────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ sudo access --profile                                   │
+# │ Access granted. Fetching system details...                                 │
+# ├────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ neofetch --user                                         │
+# │ OS: Arch Linux x86_64   |  Shell: Fish                                     │
+# │ Role: Android Developer                                                    │
+# │ Focus: Building fast, minimal & production-ready apps                      │
+# ├────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ ls ~/projects                                           │
+# │ > Nudge (Production-ready Android App, 15+ users)                          │
+# │ > More projects loading...                                                 │
+# ├────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ tech --stack                                            │
+# │ Kotlin | Android | Firebase                                                │
+# │ C / C++ | Rust | Python                                                    │
+# │ React | Node.js | Next.js                                                  │
+# ├────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ sudo pacman -S mindset                                  │
+# │ ✔ Build real products                                                      │
+# │ ✔ Focus on performance & simplicity                                        │
+# │ ✔ Learn deeply, not superficially                                          │
+# ├────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ traceroute future                                       │
+# │ 1  android_mastery     — Becoming highly skilled in Android systems        │
+# │ 2  real_world_apps     — Building scalable & useful products               │
+# │ 3  data_science       — Transitioning into ML & data-driven systems        │
+# │ 4  systems_depth      — Exploring low-level & backend engineering          │
+# ├────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@archlinux:~$ echo "Profile ready. Open to opportunities."            │
+# │ Profile ready. Open to opportunities.                                      │
+# └────────────────────────────────────────────────────────────────────────────┘
 ```
