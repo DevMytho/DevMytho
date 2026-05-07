@@ -1,41 +1,44 @@
 ```bash
-
 # ┌────────────────────────────────────────────────────────────────────────────┐
-# │🔴🟡🟢 devvv@archlinux:~$                                                   │
+# │🔴🟡🟢 devvv@devvv-carpediem:~$                                             │
 # ├────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ whoami                                                  │
-# │ Devvv — Frontend Developer | Next.js & React | Builder of Real Things      │
+# │ devvv@devvv-carpediem:~$ whoami                                             │
+# │ Devvv — Python Developer | Aspiring Data Scientist | Builder of Real Tools │
 # ├────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ sudo access --profile                                   │
+# │ devvv@devvv-carpediem:~$ sudo access --profile                             │
 # │ Access granted. Fetching system details...                                 │
 # ├────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ neofetch --user                                         │
-# │ OS: Arch Linux x86_64   |  Shell: Fish                                     │
-# │ Role: Frontend Developer                                                   │
-# │ Focus: Fast, clean, and production-ready web experiences                   │
+# │ devvv@devvv-carpediem:~$ neofetch --user                                   │
+# │ OS: Ubuntu x86_64   |  Shell: Fish                                         │
+# │ Role: Python Developer                                                     │
+# │ Focus: Building real, useful tools — not just tutorial projects            │
 # ├────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ ls ~/projects                                           │
-# │ > Client websites built on Next.js & React (delivered & live)              │
-# │ > SEO-optimized site in vanilla HTML, CSS & JS                             │
-# │ > Port Scanner — Python & Nmap based network tool                          │
-# │ > More shipping soon...                                                    │
+# │ devvv@devvv-carpediem:~$ ls ~/projects                                     │
+# │ > Port Scanner — cross-platform network tool w/ GUI (Python, nmap)         │
+# │ > Codeblocc — Discord bot with API integration                             │
+# │ > Shooter — 2D game built with Pygame                                      │
+# │ > Client websites delivered on React & Next.js                             │
 # ├────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ tech --stack                                            │
+# │ devvv@devvv-carpediem:~$ tech --stack                                      │
+# │ Python | tkinter | Pygame | Discord.py                                     │
 # │ React | Next.js | JavaScript | HTML | CSS                                  │
-# │ Python | Node.js                                                           │
-# │ Git | Vercel                                                               │
+# │ Linux | Git | Vercel                                                       │
 # ├────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ sudo pacman -S mindset                                  │
-# │ ✔ Build real products, not just tutorials                                  │
-# │ ✔ Focus on performance & simplicity                                        │
-# │ ✔ Learn deeply, not superficially                                          │
+# │ devvv@devvv-carpediem:~$ cat current_mission.txt                           │
+# │ Learning Data Science — NumPy, Pandas, and beyond                          │
+# │ Documenting builds on YouTube @ MeowCode                                  │
 # ├────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ traceroute future                                       │
-# │ 1  web_mastery       — Deepening Next.js, TypeScript & modern tooling      │
-# │ 2  real_world_apps   — Building scalable & useful products                 │
-# │ 3  systems_depth     — Exploring backend & full-stack engineering          │
+# │ devvv@devvv-carpediem:~$ sudo apt install mindset                          │
+# │ ✔ Build real tools, not just tutorials                                     │
+# │ ✔ Document and share what you learn                                        │
+# │ ✔ Learn deeply, ship honestly                                              │
 # ├────────────────────────────────────────────────────────────────────────────┤
-# │ devvv@archlinux:~$ echo "Profile ready. Open to opportunities."            │
+# │ devvv@devvv-carpediem:~$ traceroute future                                 │
+# │ 1  python_mastery    — Deepening scripting, automation & backend skills    │
+# │ 2  data_science      — NumPy → Pandas → ML → real DS projects              │
+# │ 3  systems_depth     — Exploring backend & full-stack engineering           │
+# ├────────────────────────────────────────────────────────────────────────────┤
+# │ devvv@devvv-carpediem:~$ echo "Profile ready. Open to opportunities."      │
 # │ Profile ready. Open to opportunities.                                      │
 # └────────────────────────────────────────────────────────────────────────────┘
 ```
