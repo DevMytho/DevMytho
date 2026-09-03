@@ -12,7 +12,7 @@ I build tools I actually need, then open-source them. No fluff, if it's here, it
 - 🔐 Focus areas: application security, software development
 - 🛠️ Currently building: `jwt-inspector`, a JWT decode/analysis tool (CLI + GUI)
 - 🐧 Daily driver: Linux (Ubuntu/Debian), editor: Zed
-- 📚 Also studying: Data Science (IIT Madras, online)
+- 📚 Also studying: Data Science (IIT Madras) 
 
 ---
 
