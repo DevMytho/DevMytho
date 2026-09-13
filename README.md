@@ -10,7 +10,7 @@ I work at the intersection of security engineering and software development, App
 I build tools I actually need, then open-source them. No fluff, if it's here, it works.
 
 - 🔐 Focus areas: application security, software development
-- 🛠️ Currently building: `Vigil`
+- 🛠️ Currently building: `oauth-flow-debugger`
 - 🐧 Daily driver: Linux (Ubuntu/Debian), editor: Zed
 - 📚 Also studying: Data Science (IIT Madras) 
 
