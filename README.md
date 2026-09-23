@@ -25,7 +25,7 @@ Rust/Tauri desktop tool for auditing Supabase/Postgres Row-Level Security polici
 Built using python & tkinter, utilising nmap's core feature of port scanning and banner grabbing. Has multi-os support.
 
 **[jwt-inspector](https://github.com/devmytho/jwt-inspector)**
-JWT decode/analysis tool, single-repo CLI + GUI architecture. CLI is complete and tested; GUI (Tauri) in progress.
+JWT decode/analysis tool, single-repo CLI + GUI architecture.
 
 ---
 
